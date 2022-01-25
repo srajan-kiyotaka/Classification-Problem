@@ -1,6 +1,6 @@
 # Classification problem
 
-ML classification problem as a part of IITPKD Techfest [Petrichor](https://www.petrichor22.com/technical_events)
+ML classification problem as a part of IITPKD Techfest [Petrichor](https://www.petrichor22.com/technical_events/event?id=3&tech=1)
 
 ## Authors
 
